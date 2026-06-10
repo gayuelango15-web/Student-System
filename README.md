@@ -1,25 +1,19 @@
-# Expense Tracker
+# Student Management System
 
-An Expense Tracker application that helps users manage and analyze daily expenses.
+A web-based Student Management System built using HTML, CSS, and JavaScript.
 
 ## Features
 
-* Add expenses with category and date
-* Search expenses
-* Sort expenses by amount
-* Edit and delete expenses
-* Category-wise expense tracking
-* Total and average expense calculation
-* Highest and lowest expense analysis
+* Add student records
+* Edit student details
+* Delete student records
+* Search students by name
+* Sort marks (High to Low / Low to High)
+* Highest and Lowest mark analysis
+* Average mark calculation
+* Pass and Fail count
+* Total student count
 * Local Storage support
-* Responsive design
-
-## Categories
-
-* Food
-* Travel
-* Shopping
-* Movie Bill
 
 ## Technologies Used
 
@@ -31,14 +25,14 @@ An Expense Tracker application that helps users manage and analyze daily expense
 
 1. Download or clone the repository.
 2. Open `index.html` in your browser.
-3. Start tracking your expenses.
+3. Start managing student records.
 
 ## Future Improvements
 
-* Expense charts and graphs
-* Monthly reports
-* Export to Excel/PDF
-* Budget tracking
+* Student attendance tracking
+* Grade generation
+* Course-wise filtering
+* Export reports
 
 ## Author
 
